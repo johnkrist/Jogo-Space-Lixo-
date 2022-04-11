@@ -147,7 +147,7 @@ function moveEnemie(enemie) {
             gameOver()
         } else {
         }
-        enemie.style.left = `${xPosition - 5}px`
+        enemie.style.left = `${xPosition - 4}px`
     }, 40)
 
 }

@@ -29,7 +29,7 @@ body{
 .start-button{
     position: relative;
     left: 210px;
-    bottom: 150px;
+    bottom: 130px;
     font-size: 25px;
     cursor: pointer;
     border: none;
